@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<library>
+  <list_title>สกูตอร์ไฟฟ้า มาตรฐานสากล</list_title>
+  <blurb>product := Product{     Name:        &amp;quot;VIESFA-9&amp;quot;,     Price:       12900,     Description: &amp;quot;สกูตเตอร์ไฟฟ้าทรงพลัง&amp;quot;,     Image:       &amp;quot;https://example.com/scooter.jpg&amp;quot;,     Features:    []string{&amp;quot;พับเก็บได้&amp;quot;, &amp;quot;แบตเตอรี่ทนทาน&amp;quot;, &amp;quot;มอเตอร์แรง&amp;quot;},     Specifications: map[string]string{&amp;quot;น้ำหนัก&amp;quot;: &amp;quot;15 กิโลกรัม&amp;quot;, &amp;quot;ความเร็วสูงสุด&amp;quot;: &amp;quot;25 กม./ชม.&amp;quot;}, }  c.HTML(http.StatusOK, &amp;quot;product.html&amp;quot;, gin.H{&amp;quot;product&amp;quot;: product})</blurb>
+  <url>https://books.google.com/books?uid=112425083911597938517&amp;as_coll=1001&amp;hl=th</url>
+</library>
