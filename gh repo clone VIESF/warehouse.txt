@@ -1,0 +1,22 @@
+product:
+  id: VIESFA9ElectricScooterDry.0110  # เพิ่ม ID สำหรับการอ้างอิง
+  name: สกูตเตอร์ไฟฟ้า VIESFA9ElectricScooter Dry.0110
+  price: 
+    amount: 5900
+    currency: THB  # ระบุสกุลเงิน
+  description:
+    - ระบบขับเคลื่อน: ติดตั้งมอเตอร์ไฟฟ้ากำลังสูง 350 วัตต์ ให้สมรรถนะการขับขี่ที่ทรงพลังและราบรื่น
+    - แบตเตอรี่: ใช้แบตเตอรี่ลิเธียมไอออนคุณภาพสูง รองรับการใช้งานต่อเนื่องสูงสุด 40 กิโลเมตร ต่อการชาร์จหนึ่งครั้ง
+    - ... (รายละเอียดอื่นๆ)
+  image:
+    url: data:image/jpeg;base64,/9j/...  # รูปแบบ URL ของภาพ
+    alt_text: ภาพสกูตเตอร์ไฟฟ้า VIESFA9ElectricScooter Dry.0110
+  category: ElectricScooter  # หมวดหมู่สินค้า
+  specifications:
+    motor: 350W
+    battery: Lithium-ion
+    range: 40km
+  brand: VIESFA9
+  availability: In stock  # หรือ Out of stock
+  created_at: 2024-04-04  # วันที่เพิ่มสินค้า
+  updated_at: 2024-04-04  # วันที่อัปเดตข้อมูลล่าสุด
