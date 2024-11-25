@@ -1,0 +1,70 @@
+{
+    "lastKnownTabbedRouterState": {
+        "activeTab": "home",
+        "tabs": {
+            "home": {
+                "rootPage": {
+                    "id": "home",
+                    "type": "native"
+                },
+                "pages": [
+                    {
+                        "url": "/13031703981980f8a11bc7560352dba1?pvs=3&qid=",
+                        "queryParams": null,
+                        "route": {
+                            "name": "page"
+                        },
+                        "redirectedTo": null,
+                        "type": "web"
+                    },
+                    {
+                        "url": "/30c8ec2f03a94a6bb50a3372fe3c281b?pvs=3&qid=",
+                        "queryParams": null,
+                        "route": {
+                            "name": "page"
+                        },
+                        "redirectedTo": null,
+                        "type": "web"
+                    }
+                ],
+                "nativeRootPageOverrideEnabled": true
+            },
+            "search": {
+                "rootPage": {
+                    "id": "search",
+                    "type": "native"
+                },
+                "pages": [],
+                "nativeRootPageOverrideEnabled": true
+            },
+            "updates": {
+                "rootPage": {
+                    "id": "inbox",
+                    "type": "native"
+                },
+                "pages": [],
+                "nativeRootPageOverrideEnabled": true
+            },
+            "addPage": {
+                "rootPage": {
+                    "url": "/new",
+                    "queryParams": {
+                        "spaceId": "53dc8a2c9b2641b1ae1aecf89f358b01"
+                    },
+                    "route": {
+                        "name": "new",
+                        "spaceId": "53dc8a2c9b2641b1ae1aecf89f358b01"
+                    },
+                    "redirectedTo": null,
+                    "type": "web"
+                },
+                "pages": [],
+                "nativeRootPageOverrideEnabled": false
+            }
+        },
+        "modal": [],
+        "navigationAction": null,
+        "navigationSource": null,
+        "navigationEffect": null
+    }
+}

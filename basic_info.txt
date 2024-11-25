@@ -1,0 +1,26 @@
+{
+    "reportedAtTimestampMs": "1732566055606",
+    "environmentTier": "prod",
+    "buildType": "release",
+    "platform": "android",
+    "sessionInfo": {
+        "userId": "ee557577-444f-480a-ba82-7869426c8457",
+        "workspaceId": "53dc8a2c-9b26-41b1-ae1a-ecf89f358b01",
+        "appVersion": "0.6.2556.beta",
+        "webVersion": "23.13.0.675",
+        "lastUpdatedTimestampMs": "unknown",
+        "isFirstSessionOfThisVersion": false
+    },
+    "deviceInfo": {
+        "deviceId": "s5e8825",
+        "deviceModel": "SM-A256E",
+        "systemVersion": "14",
+        "androidApiLevel": "34",
+        "deviceBrand": "samsung",
+        "deviceManufacturer": "samsung",
+        "deviceCarrier": "TRUE-H",
+        "deviceCountry": "TH",
+        "freeDiskStorageInGB": "208.866783232",
+        "ramSizeInGB": "7.225395202636719"
+    }
+}

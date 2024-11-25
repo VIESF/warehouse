@@ -1,0 +1,50 @@
+[
+    {
+        "name": "android.startup.create_app_component",
+        "startMs": 37607436,
+        "endMs": 37607436,
+        "durationMs": 0
+    },
+    {
+        "name": "android.startup.application_on_create",
+        "startMs": 37607433,
+        "endMs": 37607589,
+        "durationMs": 156
+    },
+    {
+        "name": "android.startup.initialize_asset_manager",
+        "startMs": 38916318,
+        "endMs": 38916593,
+        "durationMs": 275
+    },
+    {
+        "name": "android.startup.create_main_activity_component",
+        "startMs": 38934405,
+        "endMs": 38934612,
+        "durationMs": 207
+    },
+    {
+        "name": "android.startup.main_activity_on_create",
+        "startMs": 38934400,
+        "endMs": 38934709,
+        "durationMs": 309
+    },
+    {
+        "name": "android.startup.initial_home_tab_data_load",
+        "startMs": 38934618,
+        "endMs": 38934890,
+        "durationMs": 272
+    },
+    {
+        "name": "webview_loading_since",
+        "startMs": 38935769,
+        "endMs": 38936781,
+        "durationMs": 1012
+    },
+    {
+        "name": "app_js_ready",
+        "startMs": 38935769,
+        "endMs": 38937826,
+        "durationMs": 2057
+    }
+]

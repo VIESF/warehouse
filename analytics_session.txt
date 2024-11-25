@@ -1,0 +1,8 @@
+{
+    "mobileReferrer": {
+        "type": "none",
+        "subtype": null
+    },
+    "mobileSessionId": "fb235368-2ded-4a13-800c-00d6fe7d9ef0",
+    "sessionBackgroundedTime": 1732566038745
+}

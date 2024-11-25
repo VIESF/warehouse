@@ -1,0 +1,44 @@
+{
+    "experiments": {
+        "android_personal_plus_plan": {},
+        "mobile_local_search_android": {},
+        "mobile_force_upgrade": {
+            "group": "group=true",
+            "allowDismiss": "allowDismiss=true",
+            "upgradeOS": "upgradeOS=false",
+            "appStoreURL": "appStoreURL="
+        },
+        "mobile_dynamic_mab_android": {},
+        "mobile_user_activation_mab_education": {
+            "group": "group=control"
+        },
+        "mobile_user_activation_mab_scroll_tabs": {},
+        "mobile_user_activation_mab_scroll_tabs_new_user": {},
+        "mobile_user_activation_android_home_template_entry": {
+            "group": "group=control"
+        },
+        "mobile_user_activation_ios_home_template_entry_existing_user": {
+            "group": "group=on"
+        }
+    },
+    "featureGates": {
+        "rage_shake_detection_android": true,
+        "android_messagestore_metrics": false,
+        "mobile_msgstore_multicell": false,
+        "mobile_bridge_performance_logging_native": false,
+        "android_in_app_review": true,
+        "android_deeplinks_use_app_site_association": true,
+        "android_record_map_v3": true,
+        "supports_always_multi_text_selection_behavior": true,
+        "mobile_horizon1_dictation_mab_nux": true,
+        "android_supports_eager_webview_ready": false,
+        "android_native_inbox_emoji_picker": true,
+        "android_calendar_app_upsell_gate": true,
+        "android_native_home_tab_section_reordering": true,
+        "supports_browser_selection_update_short_circuit": true,
+        "supports_android_empty_line_selection_node": false,
+        "android_personal_plus_plan": true,
+        "android_multi_cell_new_endpoints": false,
+        "mobile_new_block_id": true
+    }
+}

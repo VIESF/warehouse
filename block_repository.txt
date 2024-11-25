@@ -1,0 +1,157 @@
+{
+    "cache_size": 38,
+    "cache": {
+        "13031703-9819-8001-bf59-d91f2884890e": {
+            "subscription_count": 0,
+            "value": "version=14"
+        },
+        "13031703-9819-808e-a062-fe2cb7fe0693": {
+            "subscription_count": 0,
+            "value": "version=10"
+        },
+        "13031703-9819-8095-b7d6-de8fcff8c20c": {
+            "subscription_count": 0,
+            "value": "version=63"
+        },
+        "255ad018-99ff-4527-9da1-0780bddaeece": {
+            "subscription_count": 2,
+            "value": "version=1"
+        },
+        "14731703-9819-8084-9f86-f9706a08331e": {
+            "subscription_count": 0,
+            "value": "version=79"
+        },
+        "c112a38e-14fb-4392-a370-5f6cbae05c9c": {
+            "subscription_count": 5,
+            "value": "version=179"
+        },
+        "43fdb1be-390b-4017-a1b5-0fdaaa1c90f4": {
+            "subscription_count": 6,
+            "value": "version=104"
+        },
+        "13031703-9819-80e0-b338-c3d571b122fe": {
+            "subscription_count": 0,
+            "value": "version=41"
+        },
+        "13031703-9819-80f0-8be5-df53e9b95c44": {
+            "subscription_count": 0,
+            "value": "version=27"
+        },
+        "4a9714a0-7072-406c-bd28-e2202b594870": {
+            "subscription_count": 5,
+            "value": "version=4"
+        },
+        "13031703-9819-805a-a3df-f8fe7a995b71": {
+            "subscription_count": 0,
+            "value": "version=10"
+        },
+        "30c8ec2f-03a9-4a6b-b50a-3372fe3c281b": {
+            "subscription_count": 5,
+            "value": "version=16"
+        },
+        "8e2ae53c-990b-44e1-aaef-4e9fc7f6debc": {
+            "subscription_count": 6,
+            "value": "version=10"
+        },
+        "13031703-9819-80bf-b1a9-d650492a5d84": {
+            "subscription_count": 0,
+            "value": "version=7"
+        },
+        "14731703-9819-80db-9fdb-e9eb143004a1": {
+            "subscription_count": 0,
+            "value": "version=6"
+        },
+        "13031703-9819-80f8-a11b-c7560352dba1": {
+            "subscription_count": 0,
+            "value": "version=159"
+        },
+        "13031703-9819-803f-8c6a-c0da1b949d9a": {
+            "subscription_count": 0,
+            "value": "version=14"
+        },
+        "e255dd74-c3ab-4368-bd42-94e96c666576": {
+            "subscription_count": 1,
+            "value": "version=3"
+        },
+        "81012350-942a-4c3f-a6c3-99e47d29d234": {
+            "subscription_count": 2,
+            "value": "version=12"
+        },
+        "bb7be649-35a7-4108-b027-548b6b13a750": {
+            "subscription_count": 5,
+            "value": "version=8"
+        },
+        "13031703-9819-8068-a1b6-d4c8f79ab6d3": {
+            "subscription_count": 0,
+            "value": "version=10"
+        },
+        "14731703-9819-80d1-bf00-e20b83c6d60c": {
+            "subscription_count": 0,
+            "value": "version=48"
+        },
+        "202572fb-81a1-4f7c-8bfa-944222aba260": {
+            "subscription_count": 2,
+            "value": "version=17"
+        },
+        "14731703-9819-80bf-9cad-f7e0bac4d79a": {
+            "subscription_count": 0,
+            "value": "version=8"
+        },
+        "14731703-9819-80ae-a1f4-e921434beef3": {
+            "subscription_count": 0,
+            "value": "version=78"
+        },
+        "14731703-9819-80ee-8b81-f987a00d6c6a": {
+            "subscription_count": 0,
+            "value": "version=32"
+        },
+        "13031703-9819-8042-b265-f3e5de029662": {
+            "subscription_count": 0,
+            "value": "version=14"
+        },
+        "13031703-9819-80b1-b6c8-e2e601c3fe50": {
+            "subscription_count": 0,
+            "value": "version=27"
+        },
+        "14731703-9819-8037-99a7-ca826d415d00": {
+            "subscription_count": 0,
+            "value": "version=49"
+        },
+        "6b564c55-1793-4ca1-9b80-0175c1c47a78": {
+            "subscription_count": 0,
+            "value": "version=1"
+        },
+        "4b295132-0f51-47bb-a1a7-8c60b2c6c937": {
+            "subscription_count": 3,
+            "value": "version=3"
+        },
+        "14731703-9819-808c-b47a-d796e54f6875": {
+            "subscription_count": 0,
+            "value": "version=31"
+        },
+        "c31eb0ed-af5a-40a4-8491-e6a090fcb2e9": {
+            "subscription_count": 3,
+            "value": "version=10"
+        },
+        "13031703-9819-8046-922c-ddb8810292bf": {
+            "subscription_count": 0,
+            "value": "version=10"
+        },
+        "13031703-9819-8178-ae41-da52c14533d0": {
+            "subscription_count": 0,
+            "value": "version=11"
+        },
+        "b63ddc64-b088-48c1-ad39-f9c86edfb1d8": {
+            "subscription_count": 3,
+            "value": "version=11"
+        },
+        "fb4cea6a-522d-43a8-801e-5f9ea2e1b1ea": {
+            "subscription_count": 2,
+            "value": "version=28"
+        },
+        "13031703-9819-81f3-a0c6-df79b45c430c": {
+            "subscription_count": 0,
+            "value": "version=1"
+        }
+    }
+}

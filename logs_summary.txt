@@ -1,0 +1,19 @@
+debug: 275
+In-App Review: 7
+CSPT: 14
+ExperimentMetricsAnalyticsConsumer: 1
+MainActivity: 2
+error: 1
+NotionWebViewClient: 1
+WidgetSyncTrigger: 1
+BrowserApiInteractionAnalyticsTracker: 35
+unknown: 61
+record_sync: 58
+HomeViewModel: 5
+low_memory_warning: 1
+message_store_initialization: 10
+ExperimentManager: 80
+NativeApi: 8
+ActiveSessionManager: 15
+transaction_queue: 1
+info: 24
