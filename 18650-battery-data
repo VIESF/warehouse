@@ -1,0 +1,63 @@
+[
+  {
+    "model": "18650-12V-5000mAh",
+    "type": "single",
+    "voltage": 12,
+    "capacity": 5000,
+    "dimensions": {
+      "diameter": 18.35,
+      "height": 65
+    },
+    "weight": 47.5,
+    "manufacturer": "Samsung",
+    "date": "2023-01-01"
+  },
+  {
+    "model": "18650-12V-12000mAh",
+    "type": "single",
+    "voltage": 12,
+    "capacity": 12000,
+    "dimensions": {
+      "diameter": 18.35,
+      "height": 65
+    },
+    "weight": 48.2,
+    "manufacturer": "LG",
+    "date": "2023-02-15"
+  },
+  {
+    "model": "18650-24V-10000mAh",
+    "type": "single",
+    "voltage": 24,
+    "capacity": 10000,
+    // ... Add dimensions, weight, manufacturer, and date
+  },
+  {
+    "model": "18650-Pack-36V-10000mAh",
+    "type": "pack",
+    "voltage": 36,
+    "capacity": 10000,
+    // ... Add dimensions, weight, manufacturer, and date
+  },
+  {
+    "model": "18650-Pack-36V-20000mAh",
+    "type": "pack",
+    "voltage": 36,
+    "capacity": 20000,
+    // ... Add dimensions, weight, manufacturer, and date
+  },
+  {
+    "model": "18650-Pack-48V-10000mAh",
+    "type": "pack",
+    "voltage": 48,
+    "capacity": 10000,
+    // ... Add dimensions, weight, manufacturer, and date
+  },
+  {
+    "model": "18650-Pack-48V-20000mAh",
+    "type": "pack",
+    "voltage": 48,
+    "capacity": 20000,
+    // ... Add dimensions, weight, manufacturer, and date
+  }
+]
