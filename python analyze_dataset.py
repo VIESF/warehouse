@@ -36,3 +36,19 @@ Hit ที่ส่ง
   developer_id: {dZWRiYj: true}
 14
 }
+ค่าของชั้นข้อมูลหลังจากข้อความนี้:
+1
+{
+  event: "gtm.dom",
+  gtm: {
+    uniqueEventId: 9,
+    allowlist: undefined,
+    blocklist: undefined,
+    whitelist: undefined,
+    blacklist: undefined,
+    start: 1735102474917,
+    priorityId: undefined
+  },
+  tagTypeBlacklist: undefined,
+  developer_id: {dZWRiYj: true}
+}
